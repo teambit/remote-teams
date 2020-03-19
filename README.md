@@ -1,11 +1,11 @@
-# bit-react-tutorial
+# Remote front-end teams: Integrations through Bit components tutorial
 
 This repository accompanies the Bit React tutorial.
 It gives a hands-on demonstration with example code on how to share, use and update a component between two real-world React applications. 
 
 ## Try the tutorial
 
-Go through the full step-by-step tutorial here: https://docs.bit.dev/docs/tutorials/bit-react-tutorial
+Go through the full step-by-step tutorial here: https://medium.com/p/739625e7069d/edit
 
 ## Overview
 
