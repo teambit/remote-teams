@@ -27,10 +27,10 @@ You need to verify that you have:
 
 - Node 8.12+  
 
-To run this tutorial, clone and setup the React tutorial project: https://github.com/teambit/bit-react-tutorial
+To run this tutorial, clone and setup the React tutorial project: https://github.com/teambit/remote-teams
 
 ```bash
-git clone https://github.com/teambit/bit-react-tutorial
+git clone https://github.com/teambit/remote-teams
 cd bit-react-tutorial
 yarn 
 ```
